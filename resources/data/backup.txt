@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Joshua",
+    "teams": [
+      "Bob",
+      "Alex"
+    ],
+    "points": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "name": "Mum",
+    "teams": [
+      "Team 1, Team 2"
+    ],
+    "points":
+    [
+      1,2,3
+    ]
+  }
+]

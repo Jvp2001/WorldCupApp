@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Dad",
+    "teams": [
+      {
+        "name": "Saudi Arabia",
+        "total": 12,
+        "bIsOut": false
+      },
+      {
+        "name": "Portugal",
+        "total": 3,
+        "bIsOut": false
+      },
+      {
+        "name": "France",
+        "total": 3,
+        "bIsOut": false
+      },
+      {
+        "name": "Argentina",
+        "total": 69,
+        "bIsOut": false
+      },
+      {
+        "name": "Costa Rica",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Sweden",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Belgium",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Uruguay",
+        "total": 0,
+        "bIsOut": false
+      }
+    ]
+  },
+  {
+    "name": "Freya",
+    "teams": [
+      {
+        "name": "Russia",
+        "total": 3,
+        "bIsOut": false
+      },
+      {
+        "name": "Morocco",
+        "total": 9,
+        "bIsOut": false
+      },
+      {
+        "name": "France",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Iceland",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Switzerland",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Mexico",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Panama",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Japan",
+        "total": 0,
+        "bIsOut": false
+      }
+    ]
+  },
+  {
+    "name": "Joshua",
+    "teams": [
+      {
+        "name": "Denmark",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Croatia",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Egypt",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Iran",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Brazil",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "South Korea",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Tunisia",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Senegal",
+        "total": 0,
+        "bIsOut": false
+      }
+    ]
+  },
+  {
+    "name": "Mum",
+    "teams": [
+      {
+        "name": "Uruguay",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Spain",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Peru",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Nigeria",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Serbia",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Germany",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "England",
+        "total": 0,
+        "bIsOut": false
+      },
+      {
+        "name": "Columbia",
+        "total": 0,
+        "bIsOut": false
+      }
+    ]
+  }
+]

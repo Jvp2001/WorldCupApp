@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Joshua",
+    "teams": [
+      {
+        "name": "Denmark",
+        "points": [
+        ]
+      },
+      {
+        "name": "Croatia",
+        "points": [
+        ]
+      },
+      {
+        "name": "Egypt",
+        "points": [
+        ]
+      },
+      {
+        "name": "Iran",
+        "points": [
+        ]
+      },
+      {
+        "name": "Brazil",
+        "points": [
+        ]
+      },
+      {
+        "name": "South Korea",
+        "points": [
+        ]
+      },
+      {
+        "name": "Tunisia",
+        "points": [
+        ]
+      },
+      {
+        "name": "Senegal",
+        "points": [
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mum",
+    "teams": [
+      {
+        "name": "Uruguay",
+        "points": [
+        ]
+      },
+      {
+        "name": "Spain",
+        "points": [
+        ]
+      },
+      {
+        "name": "Peru",
+        "points": [
+        ]
+      },
+      {
+        "name": "Nigeria",
+        "points": [
+        ]
+      },
+      {
+        "name": "Serbia",
+        "points": [
+        ]
+      },
+      {
+        "name": "Germany",
+        "points": [
+        ]
+      },
+      {
+        "name": "England",
+        "points": [
+        ]
+      },
+      {
+        "name": "Columbia",
+        "points": [
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dad",
+    "teams": [
+      {
+        "name": "Saudi Arabia",
+        "points": [
+        ]
+      },
+      {
+        "name": "Portugal",
+        "points": [
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+        ]
+      },
+      {
+        "name": "Argentina",
+        "points": [
+        ]
+      },
+      {
+        "name": "Costa Rica",
+        "points": [
+        ]
+      },
+      {
+        "name": "Sweden",
+        "points": [
+        ]
+      },
+      {
+        "name": "Belgium",
+        "points": [
+        ]
+      },
+      {
+        "name": "Uruguay",
+        "points": [
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Freya",
+    "teams": [
+      {
+        "name": "Russia",
+        "points": [
+        ]
+      },
+      {
+        "name": "Morocco",
+        "points": [
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+        ]
+      },
+      {
+        "name": "Iceland",
+        "points": [
+        ]
+      },
+      {
+        "name": "Switzerland",
+        "points": [
+        ]
+      },
+      {
+        "name": "Mexico",
+        "points": [
+        ]
+      },
+      {
+        "name": "Panama",
+        "points": [
+        ]
+      },
+      {
+        "name": "Japan",
+        "points": [
+        ]
+      }
+    ]
+  }
+]
